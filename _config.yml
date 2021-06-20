@@ -10,17 +10,17 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                    : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.23.0"
 minimal_mistakes_skin    : "contrast"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "My personal and technical thoughts"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Vitor Hugo Medeiros De Luca"
-description              : "An amazing website."
+description              : "Vitor Hugo's personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
